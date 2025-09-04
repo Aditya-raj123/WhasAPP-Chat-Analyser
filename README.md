@@ -63,7 +63,3 @@
 ### Activity Heatmap
 <img width="1915" height="976" alt="image" src="https://github.com/user-attachments/assets/1cd50d98-adc9-4a4a-a93a-4a813ec0827a" />
 
-
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
